@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(201, 160, 160)
+
+}
+#Email{
+    width: 300px;
+}
+#Nom{
+    width: 300px;
+}
+h1{
+    color: rgb(226, 70, 14);
+}
+
+#Edat{
+    width: 100px;
+}
+
+textarea{
+    width: 340px;
+    height: 170px;
+}
+button{
+    width: 100px;
+    height: 60px;
+    background-color: rgb(214, 145, 15);
+}
